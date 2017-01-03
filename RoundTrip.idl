@@ -1,0 +1,12 @@
+
+module Messenger
+{
+  typedef sequence<char> chars;
+
+    struct Sample
+    {
+        chars payload;
+    };
+
+};
+
